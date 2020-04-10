@@ -1,0 +1,10 @@
+C:\Users\timur1\Desktop\Настя\Suka\obj\Debug\netcoreapp3.1\Suka.AssemblyInfoInputs.cache
+C:\Users\timur1\Desktop\Настя\Suka\obj\Debug\netcoreapp3.1\Suka.AssemblyInfo.cs
+C:\Users\timur1\Desktop\Настя\Suka\bin\Debug\netcoreapp3.1\Suka.exe
+C:\Users\timur1\Desktop\Настя\Suka\bin\Debug\netcoreapp3.1\Suka.deps.json
+C:\Users\timur1\Desktop\Настя\Suka\bin\Debug\netcoreapp3.1\Suka.runtimeconfig.json
+C:\Users\timur1\Desktop\Настя\Suka\bin\Debug\netcoreapp3.1\Suka.runtimeconfig.dev.json
+C:\Users\timur1\Desktop\Настя\Suka\bin\Debug\netcoreapp3.1\Suka.dll
+C:\Users\timur1\Desktop\Настя\Suka\bin\Debug\netcoreapp3.1\Suka.pdb
+C:\Users\timur1\Desktop\Настя\Suka\obj\Debug\netcoreapp3.1\Suka.dll
+C:\Users\timur1\Desktop\Настя\Suka\obj\Debug\netcoreapp3.1\Suka.pdb
