@@ -1,0 +1,14 @@
+D:\VisualStudio2019\Lab1UnitTesting\Lab1UnitTesting\bin\Debug\netcoreapp3.1\Lab1UnitTesting.exe
+D:\VisualStudio2019\Lab1UnitTesting\Lab1UnitTesting\bin\Debug\netcoreapp3.1\Lab1UnitTesting.deps.json
+D:\VisualStudio2019\Lab1UnitTesting\Lab1UnitTesting\bin\Debug\netcoreapp3.1\Lab1UnitTesting.runtimeconfig.json
+D:\VisualStudio2019\Lab1UnitTesting\Lab1UnitTesting\bin\Debug\netcoreapp3.1\Lab1UnitTesting.runtimeconfig.dev.json
+D:\VisualStudio2019\Lab1UnitTesting\Lab1UnitTesting\bin\Debug\netcoreapp3.1\Lab1UnitTesting.dll
+D:\VisualStudio2019\Lab1UnitTesting\Lab1UnitTesting\bin\Debug\netcoreapp3.1\Lab1UnitTesting.pdb
+D:\VisualStudio2019\Lab1UnitTesting\Lab1UnitTesting\obj\Debug\netcoreapp3.1\Lab1UnitTesting.csprojAssemblyReference.cache
+D:\VisualStudio2019\Lab1UnitTesting\Lab1UnitTesting\obj\Debug\netcoreapp3.1\Lab1UnitTesting.AssemblyInfoInputs.cache
+D:\VisualStudio2019\Lab1UnitTesting\Lab1UnitTesting\obj\Debug\netcoreapp3.1\Lab1UnitTesting.AssemblyInfo.cs
+D:\VisualStudio2019\Lab1UnitTesting\Lab1UnitTesting\obj\Debug\netcoreapp3.1\Lab1UnitTesting.dll
+D:\VisualStudio2019\Lab1UnitTesting\Lab1UnitTesting\obj\Debug\netcoreapp3.1\Lab1UnitTesting.pdb
+D:\VisualStudio2019\Lab1UnitTesting\Lab1UnitTesting\bin\Debug\netcoreapp3.1\Castle.Core.dll
+D:\VisualStudio2019\Lab1UnitTesting\Lab1UnitTesting\bin\Debug\netcoreapp3.1\Moq.dll
+D:\VisualStudio2019\Lab1UnitTesting\Lab1UnitTesting\obj\Debug\netcoreapp3.1\Lab1UnitTesting.csproj.CopyComplete
